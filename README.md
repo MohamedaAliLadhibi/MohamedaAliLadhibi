@@ -47,8 +47,9 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
-[![Profile badge](https://www.codewars.com/users/MehdiDissem/badges/large)](https://www.codewars.com/users/MehdiDissem)
 </div>
+
+[![Profile badge](https://www.codewars.com/users/MohamedAliLadhibi/badges/large)](https://www.codewars.com/users/MohamedAliLadhibi)
 
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
