@@ -80,5 +80,5 @@
 <hr/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=600&height=70&duration=4500&lines=Let's+Code+🌐+💻;Shoot+me+a+message+on+my+LinkedIn;Always+down+to+collaborate+👨🏻‍💻" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=65&center=true&vCenter=true&width=7500&height=80&duration=4500&lines=Let's+Code+💻;+Shoot+me+a+message+on+my+LinkedIn+🌐;+Always+down+to+collaborate+👨🏻‍💻;" />
 </h1>
