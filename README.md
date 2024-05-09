@@ -23,7 +23,7 @@
 - ⚡ Fun fact **I like cats**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="left">
   <a href="https://dev.to/ladhibimohamedali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ladhibimohamedali" height="30" width="40" /></a>
  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -33,7 +33,7 @@
   <a href="https://instagram.com/mohamed_ali_ladhibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed_ali_ladhibi" height="30" width="40" /></a>
   <a href="https://medium.com/@medaliladhibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@medaliladhibi" height="30" width="40" /></a>
   <a href="https://discord.gg/rey9050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rey9050" height="30" width="40" /></a>
-</p>
+</div>
 
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
