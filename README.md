@@ -24,14 +24,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/ladhibimohamedali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ladhibimohamedali" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ladhibi mohamed ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ladhibi mohamed ali" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23536736/ladhibi-mohamed-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23536736/ladhibi-mohamed-ali" height="30" width="40" /></a>
-<a href="https://fb.com/med ali l'adhibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="med ali l'adhibi" height="30" width="40" /></a>
-<a href="https://instagram.com/mohamed_ali_ladhibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed_ali_ladhibi" height="30" width="40" /></a>
-<a href="https://medium.com/@medaliladhibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@medaliladhibi" height="30" width="40" /></a>
-<a href="https://discord.gg/rey9050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rey9050" height="30" width="40" /></a>
+  <a href="https://dev.to/ladhibimohamedali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ladhibimohamedali" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ladhibimohamedali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ladhibi mohamed ali" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/23536736/ladhibi-mohamed-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23536736/ladhibi-mohamed-ali" height="30" width="40" /></a>
+  <a href="https://fb.com/medaliladhibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="med ali l'adhibi" height="30" width="40" /></a>
+  <a href="https://instagram.com/mohamed_ali_ladhibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed_ali_ladhibi" height="30" width="40" /></a>
+  <a href="https://medium.com/@medaliladhibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@medaliladhibi" height="30" width="40" /></a>
+  <a href="https://discord.gg/rey9050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rey9050" height="30" width="40" /></a>
 </p>
+
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
